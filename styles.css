@@ -1,0 +1,164 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Fredoka', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 4%;
+  color: lightgrey;
+  border-width: thick;
+  margin: 100px auto;
+
+
+}
+
+.top-container {}
+
+.middle-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+
+.ryan-p {
+  width: 15%
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.engineer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.game {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.code-p {
+  padding-bottom: 50px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  position: relative;
+
+
+
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.contact-message {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.btn {
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #119994);
+  background-image: -moz-linear-gradient(top, #11cdd4, #119994);
+  background-image: -ms-linear-gradient(top, #11cdd4, #119994);
+  background-image: -o-linear-gradient(top, #11cdd4, #119994);
+  background-image: linear-gradient(to bottom, #11cdd4, #119994);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.linked-in {
+  color: #11999E;
+  margin-right: 10px;
+  text-decoration: none;
+
+}
+
+.linked-in:hover {
+  color: white;
+}
+
+
+.footer-link {
+  color: #11999E;
+  margin-left: 10px;
+  text-decoration: none;
+
+  }
+
+.footer-link:hover {
+  color: white;
+}
+
+
+
+
+
+.ryan-porter {
+padding-bottom: 50px;
+color: white;
+font-weight: normal;
+}
